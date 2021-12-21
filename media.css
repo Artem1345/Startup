@@ -1,0 +1,45 @@
+@media(max-width: 575px){
+	.menu{
+		position: static;
+	}
+	.menu a{
+		width: 100%;
+		padding: 20px 0px;
+	}
+	.header{
+		margin-top: 0px;
+		padding: 100px 0px;
+		background-size: cover;
+		background-position: center center;
+		min-height: 300px;
+	}
+	.about_company{
+ 		width: 70%;
+ 	}
+ 	.about_company img{
+ 		width: 90%;
+ 		float: none;
+ 		margin: 10px
+ 	}
+ 	.about_teammate{
+ 		display: block;
+ 		width: 80%;
+ 		margin: 20px auto;
+ 	}
+
+	.tariff{
+		display: block;
+		width: 90%;
+		margin: 20px auto;
+		
+	}
+	.contacts .send{
+		
+		padding: 10px 20px;
+		
+		width: 30%;
+		
+ 	}
+ 	
+
+ }
